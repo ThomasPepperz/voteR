@@ -1,4 +1,4 @@
-### voteR
+# voteR
 A Package & Dataset for Voter Analysis in the R Statistical Language
 
 ## SOURCE & DESCRIPTION OF DATA SETS
