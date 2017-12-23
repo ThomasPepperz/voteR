@@ -3,9 +3,9 @@ A Package & Dataset for Voter Analysis in the R Statistical Language
 
 ## SOURCE & DESCRIPTION OF DATA SETS
 
-Click "1 April 2017" from http://coloradovoters.info/download.html || Direct to downloads: http://coloradovoters.info/downloads/20170401/ ||parent site: http://coloradovoters.info
+The following link provides the Colorado Voter Registration Database dataset as updated by the Secretary of State as of October 01, 2017: http://coloradovoters.info/downloads/20171001/ 
 
-Website offers twelve (12) groups of voter registration datasets '1 May 2013' to '1 April 2017' (as of August 1, 2017)
+The website offers twelve (12) groups of voter registration datasets '1 May 2013' to '1 April 2017' (as of August 1, 2017)
 
 Each of the twelve (12) groups of voter registration datasets comprise eight (8) voter-related files in addition to three (3) metadata files containing up to ~500,000 records and 55 columns each)
 
